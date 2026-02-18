@@ -1,0 +1,2 @@
+# ClassObyekInheritance_FarisMuhammadMadaDziban_245150201111052
+Tugas Pemrograman Lanjut pada 12 Februari 2026
