@@ -9,7 +9,7 @@ abstract class bidangDuaDimensi {
         System.out.println("Nama Bidang: " + nama);
     }
 
-    // Method luas (abstract, belum didefinisikan)
     public abstract double luas();
 }
+
 
